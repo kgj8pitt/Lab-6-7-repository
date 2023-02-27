@@ -12,7 +12,13 @@ This program uses and is licensed under [The Unlicense](https://unlicense.org/),
 
 ### Installation documentation
 
-To use this program, you must have Python 3 installed on your system. You can download Python from the official website at [Python.org](https://www.python.org/downloads/). Once you have installed Python, you can download the program files from the GitHub repository by either cloning the repository or downloading the files as a ZIP.
+To use this Jupyter Notebook, you need to have Jupyter Notebook installed on your system. Here's how to install Jupyter Notebook:
+
+Install Python 3 on your system if you haven't already. You can download Python from the official website at https://www.python.org/downloads/.
+Open a terminal or command prompt and run the command ```pip install jupyter``` to install Jupyter Notebook using pip.
+Verify that Jupyter Notebook is installed by running the command ```jupyter --version```. You should see the version number of Jupyter Notebook printed in your terminal or command prompt.
+
+Once you have installed Jupyter Notebook, you can download the .ipynb file from the GitHub repository by either cloning the repository or downloading the file as a ZIP archive. Follow the "How to use it" section above to open and use the notebook.
 
 ### What it does
 
