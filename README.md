@@ -22,11 +22,14 @@ This program takes in a name and food as user input and outputs that this is the
 
 To use this program, follow these steps:
 
-1. Open a terminal or command prompt.
-2. Navigate to the directory where you have saved the program files.
-3. Run the program by typing `python favorite_food.py`.
-4. Enter your name and favorite food when prompted.
-5. The program will output a message stating that the entered food is your favorite food.
+1. Install Jupyter Notebook on your system. You can install it using pip by running ```pip install jupyter``` in your terminal or command prompt.
+2. Download the .ipynb file from the GitHub repository by either cloning the repository or downloading the file as a ZIP.
+3. Open a terminal or command prompt and navigate to the directory where you have saved the .ipynb file.
+4. Start the Jupyter Notebook server by running the command ```jupyter notebook```
+5. Click on the .ipynb file to open it in the Jupyter Notebook interface.
+6. Alternatively you could also open up JupyterLab in your computer's browser by navigating to https://jupyter.org/
+7. Once the file has been opened, enter your name and favorite food when prompted.
+8. The program will output a message stating that the entered food is your favorite food.
 
 ### How to contribute
 
