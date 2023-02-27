@@ -8,6 +8,10 @@ Group Members: Kaden Jackson, Bruce Weis
 
 This program uses and is licensed under [The Unlicense](https://unlicense.org/), a public domain dedication. We chose to use this license because it allows users to freely use, modify, and distribute the program without any restrictions or limitations.
 
+## Code of Conduct
+
+This project abides by the Contrbutor Covenant Code of Conduct in order to provide a safe and open community for contributors of all background.
+
 # Usage Documentation
 
 ### Installation documentation
